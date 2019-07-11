@@ -8,9 +8,7 @@ header-img: "img/vehicle_1.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 用户画像
-    - 广告
-    - 机器学习
+    - 平台建设
 ---
 
 #### 功能模块 ：
