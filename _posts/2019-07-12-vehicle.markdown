@@ -4,7 +4,7 @@ title:      "智慧交通平台建设"
 subtitle:   ""
 date:       2019-07-11
 author:     "xusj"
-header-img: "img/in-post/a3.png"
+header-img: "img/vehicle_1.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
@@ -23,6 +23,4 @@ tags:
 
 HBase, Hadoop, Spark, Java, Python, Hive, MySQL, Azkaban
 
-#### 相关成果展示
 
-![](../img/vehicle_1.jpg)
